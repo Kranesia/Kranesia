@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "kranesia",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Kranesia",
+  "description": "Kranesia communauté de serveur minecraft",
+  "author": "MrGeek65",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://kranesia.fr/",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://kranesia.fr/"
   },
   "private": true,
   "main": "index.js",
